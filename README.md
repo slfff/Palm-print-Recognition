@@ -1,2 +1,2 @@
-# Palm-print-Recognition
+# Palm-print_Recognition
 A palm-print recognition method, called CompCode, is provided. This method is firstly proposed in paper Competitive Coding Scheme for Palm-print Verification (ICPR'04). In addition, we provide improved versions of CompCode, called M-CompCode, E-CompCode, and ME-CompCode. For more details, please refer to our paper ....
